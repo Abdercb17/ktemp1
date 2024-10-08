@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "/project/workspace/src/assets/kk.png";
+import logo from "../assets/kk.png";
 
 export default function Logo() {
   return (

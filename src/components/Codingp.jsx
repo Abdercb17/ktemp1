@@ -9,10 +9,9 @@ import discord from "../assets/discord.png";
 import telegram from "../assets/telegram.svg";
 import linkedin from "../assets/linkedin.svg";
 import leetcode from "../assets/leetcode.png";
-import codef from "/project/workspace/src/assets/codef.svg";
-import gfg from "/project/workspace/src/assets/gfg.png";
-import codeforces from "/project/workspace/src/assets/codeforces.svg";
-import git1 from "/project/workspace/src/assets/git1.png";
+import gfg from "../assets/gfg.png";
+import codeforces from "../assets/codeforces.svg";
+import git1 from "../assets/git1.png";
 
 function Socials() {
   const { ref, inView } = useInView({
